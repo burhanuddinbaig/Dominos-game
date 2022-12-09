@@ -2,6 +2,6 @@
 
 ## Available Scripts
 
-### python domino.py
+python domino.py
 
-### python dominoes_tester.py
+python dominoes_tester.py
